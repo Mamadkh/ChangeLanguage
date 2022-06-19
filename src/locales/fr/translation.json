@@ -1,0 +1,9 @@
+{
+    "hi" : "Bienvenue dans votre application!!",
+    "name":"Prenom",
+    "family":"Nom",
+    "Email":"Couriel",
+    "submit":"Soumettre",
+    "person": "Personne",
+    "dir": "ltr"
+}

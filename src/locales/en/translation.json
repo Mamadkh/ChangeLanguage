@@ -1,0 +1,9 @@
+{
+    "hi" : "Welcome To Your's Application!!",
+    "name":"Firstname",
+    "family":"Lastname",
+    "Email": "Email",
+    "submit":"Submit",
+    "person": "Person",
+    "dir": "ltr"
+}

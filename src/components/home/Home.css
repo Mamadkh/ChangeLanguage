@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0;
+    font-weight: normal;
+}
+.p1{
+    border-radius: 2vh;
+}
+.p1:hover{
+    background-color: rgb(184, 212, 23);
+    font-size: large;
+    transition: all .4s ease-in-out;
+    opacity: 1;
+}
